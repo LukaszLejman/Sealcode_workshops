@@ -1,7 +1,7 @@
 function Figura(nazwa) {
     this.nazwa = nazwa;
     this.podajNazwe = function() {
-        console.log(name);
+        console.log(nazwa);
     };
 };
 
