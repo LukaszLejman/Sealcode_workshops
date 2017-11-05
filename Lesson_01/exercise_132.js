@@ -9,15 +9,15 @@ class Figura {
 };
 
 class Czworokat extends Figura {
-    constructor(nazwa,typCzworokata, dlugosciBokow) {
+    constructor(nazwa, typCzworokata, dlugosciBokow) {
         super(nazwa);
         this.typCzworokata = typCzworokata;
         this.dlugosciBokow = dlugosciBokow;
     };
-    podajTyp(){
+    podajTyp() {
         console.log(this.typCzworokata);
     };
-    
+
 };
 class Prostokat extends Czworokat {
     podajPole() {
