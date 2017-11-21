@@ -1,0 +1,13 @@
+.wrapper{
+    position: relative;
+}
+
+.block{
+    position: absolute;
+    background-color: red;
+    left: 50px;
+    width: 90px;
+    height: 90px;
+    margin: 16px;
+    border-radius: 50%;
+}
