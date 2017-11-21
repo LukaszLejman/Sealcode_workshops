@@ -8,7 +8,7 @@ function task($element) {
     console.log('_________________________________');
 };
 
-task($('.popular-recipes'));
+task($('section.popular-recipes'));
 task($('nav'));
 task($('aside'));
 task($('form'));
