@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<my-favorite-tracks>
+    <track>
+        <title>tytul 1</title>
+        <artist>artysta 1</artist>
+        <genre>gatunek 1</genre>
+        <album>album 1</album>
+        <year>9999</year>
+    </track>
+    <track>
+        <title>tytul 2</title>
+        <artist>artysta 2</artist>
+        <genre>gatunek 2</genre>
+        <album>album 2</album>
+        <year>9992</year>
+    </track>
+    <track>
+        <title>tytul 3</title>
+        <artist>artysta 3</artist>
+        <genre>gatunek 3</genre>
+        <album>album 3</album>
+        <year>9993</year>
+    </track>
+    <track>
+        <title>tytul 4</title>
+        <artist>artysta 4</artist>
+        <genre>gatunek 4</genre>
+        <album>album 4</album>
+        <year>9994</year>
+    </track>
+    <track>
+        <title>tytul 5</title>
+        <artist>artysta 5</artist>
+        <genre>gatunek 5</genre>
+        <album>album 5</album>
+        <year>9995</year>
+    </track>
+</my-favorite-tracks>

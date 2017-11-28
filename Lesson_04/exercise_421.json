@@ -1,0 +1,39 @@
+{
+    "my-favorite-tracks": [
+        {
+            "title": "tytul 1",
+            "artist": "artysta 1",
+            "genre": "gatunek 1",
+            "album": "album 1",
+            "year": "9999"
+        },
+        {
+            "title": "tytul 2",
+            "artist": "artysta 2",
+            "genre": "gatunek 2",
+            "album": "album 2",
+            "year": "9992"
+        },
+        {
+            "title": "tytul 3",
+            "artist": "artysta 3",
+            "genre": "gatunek 3",
+            "album": "album 3",
+            "year": "9993"
+        },
+        {
+            "title": "tytul 4",
+            "artist": "artysta 4",
+            "genre": "gatunek 4",
+            "album": "album 4",
+            "year": "9994"
+        },
+        {
+            "title": "tytul 5",
+            "artist": "artysta 5",
+            "genre": "gatunek 5",
+            "album": "album 5",
+            "year": "9995"
+        }
+    ]
+}
